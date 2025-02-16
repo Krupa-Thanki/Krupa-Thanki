@@ -1,7 +1,7 @@
 ## $\Large{\mathcal{{👋 \ Hi \, I’m \color{darkred} @Krupa-Thanki}}}$
 <br>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/lebpnk3qVPAjBxIKKc/giphy.gif" width="250"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2x4Mzd5MW11aG5hbTA4bzJqeXd1YTg3MHFtcW05Nzdob3lyYWd6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/>
 </div>
 <br>
 <div id="badges" align="center">
